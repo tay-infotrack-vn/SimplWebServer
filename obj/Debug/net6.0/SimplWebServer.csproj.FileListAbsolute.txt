@@ -1,0 +1,15 @@
+D:\Demos\SimplWebServer\SimplWebServer\bin\Debug\net6.0\SimplWebServer.exe
+D:\Demos\SimplWebServer\SimplWebServer\bin\Debug\net6.0\SimplWebServer.deps.json
+D:\Demos\SimplWebServer\SimplWebServer\bin\Debug\net6.0\SimplWebServer.runtimeconfig.json
+D:\Demos\SimplWebServer\SimplWebServer\bin\Debug\net6.0\SimplWebServer.dll
+D:\Demos\SimplWebServer\SimplWebServer\bin\Debug\net6.0\SimplWebServer.pdb
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.csproj.AssemblyReference.cache
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.AssemblyInfoInputs.cache
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.AssemblyInfo.cs
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.csproj.CoreCompileInputs.cache
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.dll
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\refint\SimplWebServer.dll
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.pdb
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\SimplWebServer.genruntimeconfig.cache
+D:\Demos\SimplWebServer\SimplWebServer\obj\Debug\net6.0\ref\SimplWebServer.dll
