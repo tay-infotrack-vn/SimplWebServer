@@ -7,5 +7,6 @@ using System.Text;
 var server = new SimpServer();
 
 server.Start();
+// master1
 
 
